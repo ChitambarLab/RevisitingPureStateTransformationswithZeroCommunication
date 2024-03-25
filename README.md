@@ -4,7 +4,7 @@ This repository includes all the scripts for obtaining the reported data and plo
 
 ### Julia Code
 
-The Julia files are used for obtaining our lower bounds on the optimal fidelity in Fig. 5(a) of the paper. They are not written to be run from the command line, but rather from an IDE with a Julia extension, such as Visual Studio Code.
+The Julia files are used for obtaining our lower bounds on the optimal fidelity in Fig. 5(a) of the paper. They are not written to be run from the command line, but rather from an IDE with a Julia extension, such as Visual Studio Code. All of them are effectively the same, but all are provided to avoid any reproducibility issues.
 
 ### Excel Spreadsheet
 
